@@ -1,0 +1,75 @@
+2021-09-26 17:27:43,099 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:27:55,291 [main] INFO Automation Practice - close popup
+2021-09-26 17:28:00,513 [main] INFO Automation Practice - entered keys into searchbox
+2021-09-26 17:28:05,177 [main] INFO Automation Practice - item is present
+2021-09-26 17:28:12,197 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:28:24,702 [main] INFO Automation Practice - close popup
+2021-09-26 17:28:32,804 [main] INFO Automation Practice - about ladder has printed
+2021-09-26 17:28:39,604 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:28:52,071 [main] INFO Automation Practice - close popup
+2021-09-26 17:28:55,359 [main] INFO Automation Practice - enter keys into searchbox
+2021-09-26 17:29:00,455 [main] INFO Automation Practice - price of homedecor has printed
+2021-09-26 17:29:07,229 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:29:20,153 [main] INFO Automation Practice - close popup
+2021-09-26 17:29:27,332 [main] INFO Automation Practice - count of images has printed
+2021-09-26 17:29:30,301 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:29:42,510 [main] INFO Automation Practice - close popup
+2021-09-26 17:29:50,618 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:30:03,084 [main] INFO Automation Practice - close popup
+2021-09-26 17:30:08,997 [main] INFO Automation Practice - shoe checkbox has clicked
+2021-09-26 17:30:20,645 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:30:33,466 [main] INFO Automation Practice - close popup
+2021-09-26 17:30:38,732 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:30:51,165 [main] INFO Automation Practice - close popup
+2021-09-26 17:30:56,636 [main] INFO Automation Practice - trackorder clicked
+2021-09-26 17:30:56,953 [main] INFO Automation Practice - entered order id
+2021-09-26 17:30:57,341 [main] INFO Automation Practice - entered phone number
+2021-09-26 17:31:00,519 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:31:13,187 [main] INFO Automation Practice - close popup
+2021-09-26 17:31:16,121 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:31:28,628 [main] INFO Automation Practice - close popup
+2021-09-26 17:31:33,716 [main] INFO Automation Practice - chat frame has entered
+2021-09-26 17:31:38,942 [main] INFO Automation Practice - clicked on chat frame icon
+2021-09-26 17:31:44,912 [main] INFO Automation Practice - query has entered to resolve
+2021-09-26 17:31:47,922 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:32:00,604 [main] INFO Automation Practice - close popup
+2021-09-26 17:38:18,522 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:38:30,403 [main] INFO Automation Practice - close popup
+2021-09-26 17:38:35,599 [main] INFO Automation Practice - entered keys into searchbox
+2021-09-26 17:38:38,363 [main] INFO Automation Practice - item is present
+2021-09-26 17:38:41,407 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:38:53,854 [main] INFO Automation Practice - close popup
+2021-09-26 17:39:00,781 [main] INFO Automation Practice - about ladder has printed
+2021-09-26 17:39:07,193 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:39:19,493 [main] INFO Automation Practice - close popup
+2021-09-26 17:39:21,022 [main] INFO Automation Practice - enter keys into searchbox
+2021-09-26 17:39:26,095 [main] INFO Automation Practice - price of homedecor has printed
+2021-09-26 17:39:28,417 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:39:40,873 [main] INFO Automation Practice - close popup
+2021-09-26 17:39:44,971 [main] INFO Automation Practice - count of images has printed
+2021-09-26 17:39:47,323 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:39:59,536 [main] INFO Automation Practice - close popup
+2021-09-26 17:40:10,479 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:40:22,450 [main] INFO Automation Practice - close popup
+2021-09-26 17:40:26,280 [main] INFO Automation Practice - shoe checkbox has clicked
+2021-09-26 17:40:33,654 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:40:45,812 [main] INFO Automation Practice - close popup
+2021-09-26 17:40:50,019 [main] INFO Automation Practice - trackorder clicked
+2021-09-26 17:40:50,277 [main] INFO Automation Practice - entered order id
+2021-09-26 17:40:50,559 [main] INFO Automation Practice - entered phone number
+2021-09-26 17:40:56,828 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:41:09,561 [main] INFO Automation Practice - close popup
+2021-09-26 17:41:14,253 [main] INFO Automation Practice - trackorder clicked
+2021-09-26 17:41:14,521 [main] INFO Automation Practice - entered order id
+2021-09-26 17:41:14,781 [main] INFO Automation Practice - entered phone number
+2021-09-26 17:41:17,407 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:41:29,692 [main] INFO Automation Practice - close popup
+2021-09-26 17:41:32,439 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:41:44,626 [main] INFO Automation Practice - close popup
+2021-09-26 17:41:49,717 [main] INFO Automation Practice - chat frame has entered
+2021-09-26 17:41:54,925 [main] INFO Automation Practice - clicked on chat frame icon
+2021-09-26 17:42:00,685 [main] INFO Automation Practice - query has entered to resolve
+2021-09-26 17:42:03,132 [main] INFO Automation Practice - open driver successfully
+2021-09-26 17:42:15,256 [main] INFO Automation Practice - close popup
+2021-09-26 17:42:17,117 [main] INFO Automation Practice - click on study icon
+2021-09-26 17:42:17,855 [main] INFO Automation Practice - checked title successfully
